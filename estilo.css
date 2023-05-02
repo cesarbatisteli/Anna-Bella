@@ -1,0 +1,55 @@
+body {
+background: url('imagens/fundo.png') #d2d2c1;
+font-family: sans-serif; 
+width: 900px;
+
+}
+
+#principal {width: 900px;}
+
+.links {
+      font-family: sans-serif;
+      font-size: 20px;
+
+}
+
+.fundo {background-color: #FFFFE0;
+        }
+
+
+
+.borda {border-top: 22px;}
+
+
+#menu {padding: 22px;
+      background-color: #FAEBD7     ;
+      text-decoration: none;
+    ;
+
+
+}
+
+a {text-decoration: none;
+   color: #4b566a;
+   font-weight: bold; 
+   padding: 5px;
+}
+
+
+#texto {padding: 20px;
+
+      background-color: #FFFFF0;
+
+}
+
+h2 {color:  pink}
+
+
+#rights{text-align: center;
+font-weight: bold;}
+
+
+img   {border: 10px solid lightpink;  }
+
+#contato {padding: 211px;
+margin: 222px black; background-color: black;}
