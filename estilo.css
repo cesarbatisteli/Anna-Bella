@@ -1,11 +1,13 @@
 body {
-background: url('imagens/fundo.png') #d2d2c1;
-font-family: sans-serif; 
-width: 900px;
+      background: url('imagens/fundo.png') #d2d2c1;
+      font-family: sans-serif;
+      width: 900px;
 
 }
 
-#principal {width: 900px;}
+#principal {
+      width: 900px;
+}
 
 .links {
       font-family: sans-serif;
@@ -13,43 +15,59 @@ width: 900px;
 
 }
 
-.fundo {background-color: #FFFFE0;
-        }
+.fundo {
+      background-color: #FFFFE0;
+}
 
 
 
-.borda {border-top: 22px;}
+.borda {
+      border-top: 22px;
+}
 
 
-#menu {padding: 22px;
-      background-color: #FAEBD7     ;
+#menu {
+      padding: 22px;
+      background-color: #FAEBD7;
       text-decoration: none;
-    ;
+      ;
 
 
 }
 
-a {text-decoration: none;
-   color: #4b566a;
-   font-weight: bold; 
-   padding: 5px;
+a {
+      text-decoration: none;
+      color: #4b566a;
+      font-weight: bold;
+      padding: 5px;
 }
 
 
-#texto {padding: 20px;
+#texto {
+      padding: 20px;
 
       background-color: #FFFFF0;
 
 }
 
-h2 {color:  pink}
+h2 {
+      color: pink
+}
 
 
-#rights{text-align: center;
-font-weight: bold;}
+#rights {
+      text-align: center;
+      font-weight: bold;
+}
 
 
-img   {border: 10px solid lightpink;  }
+img {
+      border: 10px solid lightpink;
+      border-radius: 15px;
+}
 
-#contato {padding: 211px;
-margin: 222px black; background-color: black;}
+#contato {
+      padding: 211px;
+      margin: 222px black;
+      background-color: black;
+}
